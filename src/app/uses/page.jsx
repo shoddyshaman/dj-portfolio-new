@@ -74,7 +74,7 @@ export default function Uses() {
             A great ORM for working with databases in a Node.js app.
           </Tool>
           <Tool title="Firebase">
-            If you're ever looking for a real-time non-relational database, this is the one.
+            If you&apos;re ever looking for a real-time non-relational database, this is the one.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Cloud">
