@@ -10,7 +10,7 @@ import {
   LinkedInIcon,
   XIcon,
 } from '@/components/SocialIcons'
-import portraitImage from '@/images/portrait.jpg'
+
 
 function SocialLink({ className, href, children, icon: Icon }) {
   return (
@@ -63,7 +63,7 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              I’m a software engineer and a full-stack web developer. I love to
+              I&apos;m a software engineer and a full-stack web developer. I love to
               build web applications and solve problems. I have been working in
               the tech industry for 5 years and I have worked with different
               technologies and frameworks.
