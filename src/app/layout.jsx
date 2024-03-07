@@ -11,11 +11,11 @@ export const metadata = {
   },
   description:
     'I am DJ Tiwari, a software designer and developer based in Phoenix, AZ. I specialize in designing and building high-quality software and applications.',
-  alternates: {
-    types: {
-      'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
-    },
-  },
+  // alternates: {
+  //   types: {
+  //     'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
+  //   },
+  // },
   icons: {
     icon: './dj-favicon.ico',
   },
